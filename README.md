@@ -18,6 +18,7 @@
 </a>
 
 <br />
+<br />
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 <div>
@@ -43,7 +44,7 @@
 </details>
   
 </br>
-![visitors count](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
+![](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
 
 <!-- ## Reach out to me via: -->
 <!-- Icons link https://icons8.com/icon/set/logos/color -->
