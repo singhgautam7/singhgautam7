@@ -27,7 +27,7 @@
 
 ## Reach out to me via:
 <!-- Icons link https://icons8.com/icon/set/logos/color -->
-<a href="https://www.instagram.com/singhgautam7/">
+<!-- <a href="https://www.instagram.com/singhgautam7/">
   <img align="left" alt="Gautam's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/singhgautam7/">
@@ -44,13 +44,26 @@
 </a>
 <a href="mailto:gautamsingh1997@gmail.com">
   <img align="left" alt="Gautam's Mail" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
-</a>
+</a> -->
   
-<!-- [![Instagram Badge](https://img.shields.io/badge/-singhgautam7-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/singhgautam7/)](https://www.instagram.com/singhgautam7/)
-[![Linkedin Badge](https://img.shields.io/badge/-singhgautam7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhgautam7/)](https://www.linkedin.com/in/singhgautam7/)
-[![Youtube Badge](https://img.shields.io/badge/-DecodingMuscles-990000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=g0OA1Le593c)](https://www.youtube.com/watch?v=g0OA1Le593c)
-[![Medium Badge](https://img.shields.io/badge/-singhgautam7-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@singhgautam7)](https://medium.com/@singhgautam7)
-[![Gmail Badge](https://img.shields.io/badge/-gautamsingh1997@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamsingh1997@gmail.com)](mailto:gautamsingh1997@gmail.com) -->
+<a href="https://www.instagram.com/singhgautam7/">
+  <img align="left" alt="Gautam's Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/singhgautam7/">
+  <img align="left" alt="Gautam's LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@singhgautam7">
+  <img align="left" alt="Gautam's Medium" width="22px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/watch?v=g0OA1Le593c">
+  <img align="left" alt="Gautam's YouTube" width="22px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://open.spotify.com/user/sxpj0oohar46m5bj878m0jeqz?si=3vEi8JCDSDi-KkA-b_MSJg">
+  <img align="left" alt="Gautam's Spotify" width="22px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+<a href="mailto:gautamsingh1997@gmail.com">
+  <img align="left" alt="Gautam's Mail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 
