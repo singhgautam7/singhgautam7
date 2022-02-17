@@ -49,19 +49,19 @@
 <a href="https://www.linkedin.com/in/singhgautam7/" target="_blank">
   <img align="left" alt="Gautam's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/singhgautam7/">
+<a href="https://www.instagram.com/singhgautam7/" target="_blank">
   <img align="left" alt="Gautam's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://medium.com/@singhgautam7">
+<a href="https://medium.com/@singhgautam7" target="_blank">
   <img align="left" alt="Gautam's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/watch?v=g0OA1Le593c">
+<a href="https://www.youtube.com/watch?v=g0OA1Le593c" target="_blank">
   <img align="left" alt="Gautam's YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://open.spotify.com/user/sxpj0oohar46m5bj878m0jeqz?si=3vEi8JCDSDi-KkA-b_MSJg">
+<a href="https://open.spotify.com/user/sxpj0oohar46m5bj878m0jeqz?si=3vEi8JCDSDi-KkA-b_MSJg" target="_blank">
   <img align="left" alt="Gautam's Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
-<a href="mailto:gautamsingh1997@gmail.com">
+<a href="mailto:gautamsingh1997@gmail.com" target="_blank">
   <img align="left" alt="Gautam's Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
