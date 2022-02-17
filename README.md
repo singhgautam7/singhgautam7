@@ -24,6 +24,7 @@
 
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 <div>
+  <p>I am a Computer Science and Engineering graduate with a zest for learning new technologies and overcoming challenges</p>
   <span align="left">
       <li> I am Gautam.</li>
       <li> A Google Certified Data Engineer with 2+ years experience in Backend Development and Data Engineering.</li>
