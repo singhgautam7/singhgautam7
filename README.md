@@ -48,7 +48,7 @@
   
 [![Instagram Badge](https://img.shields.io/badge/-singhgautam7-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/singhgautam7/)](https://www.instagram.com/singhgautam7/)
 [![Linkedin Badge](https://img.shields.io/badge/-singhgautam7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhgautam7/)](https://www.linkedin.com/in/singhgautam7/)
-[![Youtube Badge](https://img.shields.io/badge/-DecodingMuscles-dd0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=g0OA1Le593c)](https://www.youtube.com/watch?v=g0OA1Le593c)
+[![Youtube Badge](https://img.shields.io/badge/-DecodingMuscles-990000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=g0OA1Le593c)](https://www.youtube.com/watch?v=g0OA1Le593c)
 [![Gmail Badge](https://img.shields.io/badge/-gautamsingh1997@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamsingh1997@gmail.com)](mailto:gautamsingh1997@gmail.com)
 
 
