@@ -26,17 +26,17 @@
 <div>
   <p>I am a Computer Science and Engineering graduate  from India with a zest for learning new technologies and overcoming challenges. When I am not coding, I usually like working out to increase my strength, develop a better body balance and sometimes learning facts about things that intrigue me.</p>
   <span align="left">
-      <li> A Google Certified Data Engineer</li>
-      <li> 2+ years of experience as a Backend Developer in Django.</li>
-      <li> I am currently gaining expertise in Cloud Technologies, focusing on GCP.</li>
-      <li> My latest resume is attached <a href="assets/GRS_resume.pdf">here</a>.</li>
+      <li> :page_with_curl: A Google Certified Data Engineer</li>
+      <li> :desktop_computer: 2+ years of experience as a Backend Developer in Django.</li>
+      <li> :cloud: I am currently gaining expertise in Cloud Technologies, focusing on GCP.</li>
+      <li> :technologist: My latest resume is attached <a href="assets/GRS_resume.pdf">here</a>.</li>
   </span>
 </div>
 
 <div>
   
 <details>
-<summary>⚡️ More about my coding life</summary>
+<summary>⚡️ More about my coding life:</summary>
 <br />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhgautam7&layout=compact&hide=css,html)
