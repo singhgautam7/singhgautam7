@@ -25,7 +25,7 @@
 
 </details>
 
-## Reach me out via:
+## Reach out to me via:
 <!-- Icons link https://icons8.com/icon/set/logos/color -->
 <a href="https://www.instagram.com/singhgautam7/">
   <img align="left" alt="Gautam's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
