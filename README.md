@@ -43,7 +43,8 @@
 
 </details>
   
-</br>
+<br />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
 
 <!-- ## Reach out to me via: -->
