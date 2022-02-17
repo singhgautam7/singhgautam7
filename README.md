@@ -46,7 +46,7 @@
   <img align="left" alt="Gautam's Mail" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
 </a>
   
-[![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhgautam7/)](https://www.linkedin.com/in/singhgautam7/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gautam+Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhgautam7/)](https://www.linkedin.com/in/singhgautam7/)
 [![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/singhgautam7/)](https://www.instagram.com/singhgautam7/)
 [![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamsingh1997@gmail.com)](mailto:gautamsingh1997@gmail.comn)
 
