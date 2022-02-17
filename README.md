@@ -1,3 +1,4 @@
+<div>
 <a href="https://www.linkedin.com/in/singhgautam7/" target="_blank">
   <img align="left" alt="Gautam's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -16,6 +17,8 @@
 <a href="mailto:gautamsingh1997@gmail.com">
   <img align="left" alt="Gautam's Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+  
+</div>
 
 <br />
 <br />
