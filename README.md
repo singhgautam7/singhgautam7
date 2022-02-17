@@ -1,3 +1,28 @@
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<div>
+  <p>I am a Computer Science and Engineering graduate  from India with a zest for learning new technologies and overcoming challenges. When I am not coding, I usually like working out to increase my strength, develop a better body balance and sometimes learning facts about things that intrigue me.</p>
+  <span align="left">
+      <li> :page_with_curl: A Google Certified Data Engineer</li>
+      <li> :desktop_computer: 2+ years of experience as a Backend Developer in Django.</li>
+      <li> :cloud: I am currently gaining expertise in Cloud Technologies, focusing on GCP.</li>
+      <li> :technologist: My latest resume is attached <a href="assets/GRS_resume.pdf">here</a>.</li>
+  </span>
+</div>
+
+<div>
+  
+<details>
+<summary>⚡️ More about my coding life:</summary>
+<br />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhgautam7&layout=compact&hide=css,html)
+
+![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=singhgautam7&count_private=true&show_icons=true&theme=gotham)
+
+</details>
+
+---
+
 <!-- Icons link https://icons8.com/icon/set/logos/color -->
 <a href="https://www.instagram.com/singhgautam7/">
   <img align="left" alt="Gautam's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -22,26 +47,4 @@
 
 <br />
 
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-<div>
-  <p>I am a Computer Science and Engineering graduate  from India with a zest for learning new technologies and overcoming challenges. When I am not coding, I usually like working out to increase my strength, develop a better body balance and sometimes learning facts about things that intrigue me.</p>
-  <span align="left">
-      <li> :page_with_curl: A Google Certified Data Engineer</li>
-      <li> :desktop_computer: 2+ years of experience as a Backend Developer in Django.</li>
-      <li> :cloud: I am currently gaining expertise in Cloud Technologies, focusing on GCP.</li>
-      <li> :technologist: My latest resume is attached <a href="assets/GRS_resume.pdf">here</a>.</li>
-  </span>
-</div>
-
-<div>
-  
-<details>
-<summary>⚡️ More about my coding life:</summary>
-<br />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhgautam7&layout=compact&hide=css,html)
-
-![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=singhgautam7&count_private=true&show_icons=true&theme=gotham)
-
-</details>
 
