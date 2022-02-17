@@ -21,7 +21,9 @@
 </div>
 
 <br />
+
 \
+
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 <div>
   <p>I am a Computer Science and Engineering graduate  from India with a zest for learning new technologies and overcoming challenges. When I am not coding, I usually like working out to increase my strength, develop a better body balance and sometimes learning facts about things that intrigue me.</p>
