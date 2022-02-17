@@ -18,6 +18,10 @@
   <img align="left" alt="Gautam's Mail" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
+
+<br />
+
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 <div>
   <span align="left">
@@ -40,12 +44,3 @@
 
 </details>
 
-<!-- ## You can find me at
-<p align="center">
-  <a href="https://www.linkedin.com/in/singhgautam7/"><img width="40px" height="40px" src="https://img.icons8.com/color-glass/50/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.instagram.com/singhgautam7/"><img width="40px" height="40px" src="https://img.icons8.com/color-glass/50/000000/instagram-new.png"/></a>
-  <a href="https://medium.com/@singhgautam7"><img width="40px" height="40px" src="https://img.icons8.com/color-glass/48/000000/medium-logo.png"/></a>
-  <a href="https://www.youtube.com/watch?v=g0OA1Le593c"><img width="40px" height="40px" src="https://img.icons8.com/color-glass/48/000000/youtube-play.png"/></a>
-  <a href="mailto:gautamsingh1997@gmail.com"><img width="40px" height="40px" src="https://img.icons8.com/color-glass/50/000000/gmail.png"/></a>
-</p> -->
