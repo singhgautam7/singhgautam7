@@ -46,11 +46,11 @@
   <img align="left" alt="Gautam's Mail" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
 </a> -->
   
+<a href="https://www.linkedin.com/in/singhgautam7/" target="_blank">
+  <img align="left" alt="Gautam's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://www.instagram.com/singhgautam7/">
   <img align="left" alt="Gautam's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/singhgautam7/">
-  <img align="left" alt="Gautam's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@singhgautam7">
   <img align="left" alt="Gautam's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
