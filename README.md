@@ -17,7 +17,6 @@
   <img align="left" alt="Gautam's Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
 <br />
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
@@ -42,6 +41,9 @@
 ![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=singhgautam7&count_private=true&show_icons=true&theme=gotham)
 
 </details>
+  
+</br>
+![visitors count](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
 
 <!-- ## Reach out to me via: -->
 <!-- Icons link https://icons8.com/icon/set/logos/color -->
