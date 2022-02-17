@@ -1,4 +1,3 @@
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 <!-- Icons link https://icons8.com/icon/set/logos/color -->
 <a href="https://www.instagram.com/singhgautam7/">
   <img align="left" alt="Gautam's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -19,6 +18,7 @@
   <img align="left" alt="Gautam's Mail" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
 </a>
 
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 <div>
   <span align="left">
       <li> I am Gautam.</li>
