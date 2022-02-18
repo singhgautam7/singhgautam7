@@ -45,8 +45,6 @@
 ![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=singhgautam7&count_private=true&show_icons=true&theme=gotham)
 
 </details>
-  
-<br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
 
