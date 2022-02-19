@@ -17,9 +17,10 @@
 <a href="mailto:gautamsingh1997@gmail.com">
   <img align="left" alt="Gautam's Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  
+</br>
 </div>
 
+</br>
 ---
 
 
