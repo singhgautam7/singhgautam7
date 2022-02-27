@@ -47,6 +47,9 @@
 ![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=singhgautam7&count_private=true&show_icons=true&theme=gotham)
 
 </details>
+  
+### Portfolio
+  You can find my portfolio [here](https://www.singhgautam.com/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
 
