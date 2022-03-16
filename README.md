@@ -5,7 +5,7 @@
       <li> :page_with_curl: A <strong>Google Certified</strong> Professional Data Engineer</li>
       <li> :desktop_computer: 2+ years of experience as a <strong>Backend Developer</strong> in Django.</li>
       <li> :cloud: I am currently gaining expertise in <strong>Cloud Technologies</strong> focusing on GCP.</li>
-      <li> :eyes: You can find my <strong>Portfolio</strong> [here](https://www.singhgautam.com/).</li>
+      <li> :eyes: You can find my <strong>Portfolio</strong> <a target="_blank" href="https://www.singhgautam.com/">here</a>.</li>
       <li> :technologist: My latest <strong>Resume</strong> is attached <a href="assets/GRS_resume.pdf">here</a>.</li>
   </span>
 </div>
