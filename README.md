@@ -3,10 +3,10 @@
   <p>I am a Computer Science and Engineering graduate  from India with a zest for learning new technologies and overcoming challenges. When I am not coding, I usually like working out to increase my strength, develop a better body balance and sometimes learning facts about things that intrigue me.</p>
   <span align="left">
       <li> :page_with_curl: A <strong>Google Certified</strong> Professional Data Engineer</li>
-      <li> :desktop_computer: 2+ years of experience as a **Backend Developer** in Django.</li>
-      <li> :cloud: I am currently gaining expertise in **Cloud Technologies**, focusing on GCP.</li>
-      <li> :eyes: You can find my **Portfolio** [here](https://www.singhgautam.com/).</li>
-      <li> :technologist: My latest **resume** is attached <a href="assets/GRS_resume.pdf">here</a>.</li>
+      <li> :desktop_computer: 2+ years of experience as a <strong>Backend Developer</strong> in Django.</li>
+      <li> :cloud: I am currently gaining expertise in <strong>Cloud Technologies</strong> focusing on GCP.</li>
+      <li> :eyes: You can find my <strong>Portfolio</strong> [here](https://www.singhgautam.com/).</li>
+      <li> :technologist: My latest <strong>Resume</strong> is attached <a href="assets/GRS_resume.pdf">here</a>.</li>
   </span>
 </div>
 
