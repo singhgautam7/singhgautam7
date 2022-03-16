@@ -49,12 +49,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
 
-<p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="./github-metrics.svg">
-  </a>
-</p> 
-  
 
 
 
