@@ -56,26 +56,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
 
-<!-- ## Reach out to me via: -->
-<!-- Icons link https://icons8.com/icon/set/logos/color -->
-<!-- <a href="https://www.instagram.com/singhgautam7/">
-  <img align="left" alt="Gautam's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/singhgautam7/">
-  <img align="left" alt="Gautam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://medium.com/@singhgautam7">
-  <img align="left" alt="Gautam's Medium" width="22px" src="https://img.icons8.com/color/50/000000/medium-logo.png" />
-</a>
-<a href="https://www.youtube.com/watch?v=g0OA1Le593c">
-  <img align="left" alt="Gautam's YouTube" width="22px" src="https://img.icons8.com/color/50/000000/youtube-play.png" />
-</a>
-<a href="https://open.spotify.com/user/sxpj0oohar46m5bj878m0jeqz?si=3vEi8JCDSDi-KkA-b_MSJg">
-  <img align="left" alt="Gautam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="mailto:gautamsingh1997@gmail.com">
-  <img align="left" alt="Gautam's Mail" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />
-</a> -->
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="./github-metrics.svg">
+  </a>
+</p> 
   
 
 
