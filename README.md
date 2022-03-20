@@ -28,6 +28,9 @@
 <a href="https://www.instagram.com/singhgautam7/" target="_blank">
   <img align="left" alt="Gautam's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://singhgautam.hashnode.dev/">
+  <img align="left" alt="Gautam's Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
 <a href="https://medium.com/@singhgautam7" target="_blank">
   <img align="left" alt="Gautam's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
