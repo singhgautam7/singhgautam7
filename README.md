@@ -1,34 +1,15 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://raw.githubusercontent.com/singhgautam7/singhgautam7/main/assets/welcome.gif"/>
-  <div id="badges">
-<a href="https://www.linkedin.com/in/singhgautam7/" target="_blank">
-  <img align="left" alt="Gautam's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/singhgautam7/" target="_blank">
-  <img align="left" alt="Gautam's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://singhgautam.hashnode.dev/">
-  <img align="left" alt="Gautam's Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-<a href="https://medium.com/@singhgautam7" target="_blank">
-  <img align="left" alt="Gautam's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/watch?v=g0OA1Le593c" target="_blank">
-  <img align="left" alt="Gautam's YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://open.spotify.com/user/sxpj0oohar46m5bj878m0jeqz?si=3vEi8JCDSDi-KkA-b_MSJg" target="_blank">
-  <img align="left" alt="Gautam's Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-<a href="mailto:gautamsingh1997@gmail.com">
-  <img align="left" alt="Gautam's Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</br>
 </div>
-</div>
-
 
 </br>
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhgautam7/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/singhgautam7/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://singhgautam.hashnode.dev/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@singhgautam7)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=g0OA1Le593c)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamsingh1997@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=singhgautam7.singhgautam7)
 
 </br>
