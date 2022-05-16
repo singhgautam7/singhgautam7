@@ -44,7 +44,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
-## Blog posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [ngrok — Make full use of free tier version to expose your localhost to the internet](https://medium.com/@singhgautam7/ngrok-make-full-use-of-free-tier-version-to-expose-your-localhost-to-the-internet-1160e652d794?source=rss-a5d280249897------2)
 - [How to download a file from a link using python](https://medium.com/@singhgautam7/how-to-download-a-file-from-a-link-using-python-93a8a7e0766b?source=rss-a5d280249897------2)
