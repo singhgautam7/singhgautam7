@@ -1,4 +1,5 @@
-[![Welcome](https://raw.githubusercontent.com/singhgautam7/singhgautam7/main/assets/welcome.gif)](https://www.singhgautam.com/)
+<!-- [![Welcome](https://raw.githubusercontent.com/singhgautam7/singhgautam7/main/assets/welcome.gif)](https://www.singhgautam.com/) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&vCenter=true&lines=Namaste+World!;Welcome+to+Gautam's+Github)](https://www.singhgautam.com/)
 
 </br>
 
@@ -42,4 +43,11 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ## Latest Medium Blog
+[![Gautam's Medium](https://github-readme-medium.vercel.app/?username=singhgautam7)](https://medium.com/@singhgautam7) -->
 
