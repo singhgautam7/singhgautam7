@@ -21,7 +21,7 @@
       <li> :desktop_computer: 2+ years of experience as a <strong>Backend Developer</strong> in Django.</li>
       <li> :cloud: I am currently gaining expertise in <strong>Cloud Technologies</strong> focusing on GCP.</li>
       <li> :eyes: You can find my <strong>Portfolio</strong> <a target="_blank" href="https://www.singhgautam.com/">here</a>.</li>
-      <li> :technologist: My latest <strong>Resume</strong> in :sunny: <a href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume.pdf">Light Mode</a> and :new_moon: <a href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume_dark.pdf">Dark Mode</a>.</li>
+      <li> :technologist: Here is my latest <a href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume.docx">Resume</a></li>
   </span>
 </div>
 
