@@ -47,12 +47,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Hacks: 8 Techniques That Will Transform Your Code](https://medium.com/@singhgautam7/python-hacks-8-techniques-that-will-transform-your-code-3f5c2a0e3c08)
+- [Python Hacks: 7 Techniques That Will Transform Your Code](https://medium.com/@singhgautam7/python-hacks-8-techniques-that-will-transform-your-code-3f5c2a0e3c08?source=rss-a5d280249897------2)
 - [ngrok — Make full use of free tier version to expose your localhost to the internet](https://medium.com/@singhgautam7/ngrok-make-full-use-of-free-tier-version-to-expose-your-localhost-to-the-internet-1160e652d794?source=rss-a5d280249897------2)
 - [How to download a file from a link using python](https://medium.com/@singhgautam7/how-to-download-a-file-from-a-link-using-python-93a8a7e0766b?source=rss-a5d280249897------2)
 - [How I prepared for my Google Professional Data Engineer Exam](https://medium.com/@singhgautam7/how-i-prepared-for-my-google-professional-data-engineer-exam-8d51a007c265?source=rss-a5d280249897------2)
 - [Django Annotations: steroids to your Querysets](https://medium.com/@singhgautam7/django-annotations-steroids-to-your-querysets-766231f0823a?source=rss-a5d280249897------2)
-- [Django Signals- master pre_save and post_save](https://medium.com/@singhgautam7/django-signals-master-pre-save-and-post-save-422889b2839?source=rss-a5d280249897------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ## Latest Medium Blog
