@@ -17,11 +17,11 @@
 <div>
   <p>I am a Computer Science and Engineering graduate  from India with a zest for learning new technologies and overcoming challenges. When I am not coding, I usually like working out to increase my strength, develop a better body balance and sometimes learning facts about things that intrigue me.</p>
   <span align="left">
-      <li> :page_with_curl: A <strong>Google Certified</strong> Professional Data Engineer</li>
+      <li> :page_with_curl: A <strong>Google Certified</strong> Professional Data Engineer.</li>
       <li> :desktop_computer: 4+ years of experience as a <strong>Backend Developer</strong>.</li>
 <!--       <li> :cloud: I am currently gaining expertise in <strong>Cloud Technologies</strong> focusing on GCP.</li> -->
       <li> :eyes: You can find my <strong>Portfolio</strong> <a target="_blank" href="https://www.singhgautam.com/">here</a>.</li>
-      <li> :technologist: Here is my latest <a href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume.docx">Resume</a></li>
+      <li> :technologist: Here is my latest <a href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume.docx">Resume</a>.</li>
   </span>
 </div>
 
