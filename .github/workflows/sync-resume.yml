@@ -1,0 +1,170 @@
+name: Sync Resume
+
+# =============================================================================
+# Sync the latest version of my resume from Google Docs into this repository.
+#
+# Why?
+# ----
+# My portfolio website downloads the resume from:
+#     assets/GRS_resume.docx
+#
+# Instead of manually downloading the DOCX from Google Docs and replacing it
+# in this repository whenever I update my resume, this workflow automates the
+# entire process.
+#
+# Workflow:
+# ---------
+# 1. Download the latest DOCX export from Google Docs.
+# 2. Compare it with assets/GRS_resume.docx.
+# 3. If different:
+#      - Replace the existing file
+#      - Commit the change
+#      - Push it back to GitHub
+# 4. If identical:
+#      - Exit without creating unnecessary commits.
+#
+# The downloaded file is stored only inside the temporary GitHub Actions runner
+# (/tmp/resume) and is deleted afterwards.
+# =============================================================================
+
+on:
+  schedule:
+    # Run automatically once every month.
+    # Minute Hour Day Month DayOfWeek (UTC)
+    # 03:00 UTC on the 1st day of every month.
+    - cron: "0 3 1 * *"
+
+  # Allow manual execution from:
+  # GitHub - Actions -> Sync Resume -> Run workflow
+  workflow_dispatch:
+
+# Allow the workflow to commit and push changes.
+permissions:
+  contents: write
+
+# Prevent multiple Sync Resume workflows from running simultaneously.
+concurrency:
+  group: sync-resume
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    name: Sync Resume
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ------------------------------------------------------------------------
+      # Checkout the repository so the workflow can access its files.
+      # ------------------------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ------------------------------------------------------------------------
+      # Download the latest DOCX from Google Docs.
+      #
+      # --fail       Fail on HTTP errors.
+      # --silent     Hide download progress.
+      # --show-error Still print actual errors.
+      # --location   Follow redirects.
+      # ------------------------------------------------------------------------
+      - name: Download latest resume
+        run: |
+          mkdir -p /tmp/resume
+
+          curl \
+            --fail \
+            --silent \
+            --show-error \
+            --location \
+            "https://docs.google.com/document/d/1uvOzZNoktJX3O9ebiu5FTCmIWOpMdaoq/export?format=docx" \
+            --output /tmp/resume/latest.docx
+
+      # ------------------------------------------------------------------------
+      # Compare the downloaded resume with the one currently in the repository.
+      #
+      # cmp returns:
+      #   0 = files are identical
+      #   1 = files are different
+      #
+      # We expose the result through GITHUB_OUTPUT so later steps know whether
+      # they should run.
+      # ------------------------------------------------------------------------
+      - name: Compare resumes
+        id: compare
+        run: |
+          if cmp -s /tmp/resume/latest.docx assets/GRS_resume.docx; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Resume is already up-to-date."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "A newer resume was found."
+          fi
+
+      # ------------------------------------------------------------------------
+      # Replace the repository copy only if changes were detected.
+      # ------------------------------------------------------------------------
+      - name: Replace repository resume
+        if: steps.compare.outputs.changed == 'true'
+        run: |
+          cp /tmp/resume/latest.docx assets/GRS_resume.docx
+
+      # ------------------------------------------------------------------------
+      # Configure Git and create a commit.
+      #
+      # The commit message includes today's UTC date for easier history.
+      # ------------------------------------------------------------------------
+      - name: Commit changes
+        if: steps.compare.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/GRS_resume.docx
+
+          git commit \
+            -m "chore: sync resume ($(date -u +'%Y-%m-%d'))"
+
+      # ------------------------------------------------------------------------
+      # Push the commit back to GitHub.
+      # ------------------------------------------------------------------------
+      - name: Push changes
+        if: steps.compare.outputs.changed == 'true'
+        run: git push
+
+      # ------------------------------------------------------------------------
+      # Create a nice summary on the GitHub Actions run page.
+      # ------------------------------------------------------------------------
+      - name: Workflow summary
+        if: always()
+        run: |
+          {
+            echo "# 📄 Resume Sync"
+            echo ""
+
+            if [ "${{ steps.compare.outputs.changed }}" = "true" ]; then
+              echo "✅ **A newer resume was found.**"
+              echo ""
+              echo "- Repository updated."
+              echo "- Commit created."
+              echo "- Changes pushed to GitHub."
+            else
+              echo "ℹ️ **Resume is already up-to-date.**"
+              echo ""
+              echo "- No changes detected."
+              echo "- No commit created."
+            fi
+
+            echo ""
+            echo "**Run Time (UTC):** $(date -u)"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # ------------------------------------------------------------------------
+      # Remove temporary files.
+      #
+      # This isn't strictly necessary because GitHub destroys the runner after
+      # the workflow finishes, but it's good housekeeping.
+      # ------------------------------------------------------------------------
+      - name: Cleanup temporary files
+        if: always()
+        run: rm -rf /tmp/resume
